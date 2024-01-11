@@ -1,2 +1,2 @@
 # GitDedmo
-Testing of git
+to create a new file 
