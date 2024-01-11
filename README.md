@@ -1,0 +1,2 @@
+# GitDedmo
+Testing of git
